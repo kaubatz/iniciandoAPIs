@@ -1,0 +1,16 @@
+{
+    "Nome":"Leonardo",
+    "Data_Cadastro":"13/01/2021",
+    "Cpf_Cnpj":"00011122233",
+    "Data_Nascimento":"16/02/1995",
+    "Tipo":"F",
+    "Telefone":"16992434873",
+    "Email":"leonardo@gmail.com",
+    "Cep":"14405294",
+    "Logradouro":"Rua da Liberdade",
+    "Numero":"1361",
+    "Bairro":"Santos Dumont",
+    "Complemento":"fundos",
+    "Cidade":"Franca",
+    "UF":"SP"
+}

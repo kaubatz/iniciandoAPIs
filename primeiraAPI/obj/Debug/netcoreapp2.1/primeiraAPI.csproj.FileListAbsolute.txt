@@ -1,0 +1,17 @@
+C:\Users\Leonardo\Desktop\curso\primeiraAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Leonardo\Desktop\curso\primeiraAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Leonardo\Desktop\curso\primeiraAPI\bin\Debug\netcoreapp2.1\primeiraAPI.deps.json
+C:\Users\Leonardo\Desktop\curso\primeiraAPI\bin\Debug\netcoreapp2.1\primeiraAPI.runtimeconfig.json
+C:\Users\Leonardo\Desktop\curso\primeiraAPI\bin\Debug\netcoreapp2.1\primeiraAPI.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\curso\primeiraAPI\bin\Debug\netcoreapp2.1\primeiraAPI.dll
+C:\Users\Leonardo\Desktop\curso\primeiraAPI\bin\Debug\netcoreapp2.1\primeiraAPI.pdb
+C:\Users\Leonardo\Desktop\curso\primeiraAPI\obj\Debug\netcoreapp2.1\primeiraAPI.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\curso\primeiraAPI\obj\Debug\netcoreapp2.1\primeiraAPI.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\curso\primeiraAPI\obj\Debug\netcoreapp2.1\primeiraAPI.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\curso\primeiraAPI\obj\Debug\netcoreapp2.1\primeiraAPI.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\curso\primeiraAPI\obj\Debug\netcoreapp2.1\primeiraAPI.RazorAssemblyInfo.cache
+C:\Users\Leonardo\Desktop\curso\primeiraAPI\obj\Debug\netcoreapp2.1\primeiraAPI.RazorAssemblyInfo.cs
+C:\Users\Leonardo\Desktop\curso\primeiraAPI\obj\Debug\netcoreapp2.1\primeiraAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Leonardo\Desktop\curso\primeiraAPI\obj\Debug\netcoreapp2.1\primeiraAPI.dll
+C:\Users\Leonardo\Desktop\curso\primeiraAPI\obj\Debug\netcoreapp2.1\primeiraAPI.pdb
+C:\Users\Leonardo\Desktop\curso\primeiraAPI\obj\Debug\netcoreapp2.1\primeiraAPI.genruntimeconfig.cache

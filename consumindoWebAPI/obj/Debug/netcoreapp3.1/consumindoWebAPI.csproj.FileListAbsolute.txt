@@ -1,0 +1,13 @@
+C:\Users\Leonardo\Desktop\curso\consumindoWebAPI\bin\Debug\netcoreapp3.1\consumindoWebAPI.exe
+C:\Users\Leonardo\Desktop\curso\consumindoWebAPI\bin\Debug\netcoreapp3.1\consumindoWebAPI.deps.json
+C:\Users\Leonardo\Desktop\curso\consumindoWebAPI\bin\Debug\netcoreapp3.1\consumindoWebAPI.runtimeconfig.json
+C:\Users\Leonardo\Desktop\curso\consumindoWebAPI\bin\Debug\netcoreapp3.1\consumindoWebAPI.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\curso\consumindoWebAPI\bin\Debug\netcoreapp3.1\consumindoWebAPI.dll
+C:\Users\Leonardo\Desktop\curso\consumindoWebAPI\bin\Debug\netcoreapp3.1\consumindoWebAPI.pdb
+C:\Users\Leonardo\Desktop\curso\consumindoWebAPI\obj\Debug\netcoreapp3.1\consumindoWebAPI.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\curso\consumindoWebAPI\obj\Debug\netcoreapp3.1\consumindoWebAPI.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\curso\consumindoWebAPI\obj\Debug\netcoreapp3.1\consumindoWebAPI.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\curso\consumindoWebAPI\obj\Debug\netcoreapp3.1\consumindoWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\curso\consumindoWebAPI\obj\Debug\netcoreapp3.1\consumindoWebAPI.dll
+C:\Users\Leonardo\Desktop\curso\consumindoWebAPI\obj\Debug\netcoreapp3.1\consumindoWebAPI.pdb
+C:\Users\Leonardo\Desktop\curso\consumindoWebAPI\obj\Debug\netcoreapp3.1\consumindoWebAPI.genruntimeconfig.cache
